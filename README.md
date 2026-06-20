@@ -31,5 +31,6 @@ A modern and elegant beauty salon website designed to showcase salon services, p
 - HTML5
 - CSS3
 - JavaScript
+Website:https://aurellesalon.netlify.app/
 
 ## 📂 Project Structure
